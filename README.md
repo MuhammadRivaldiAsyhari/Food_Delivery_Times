@@ -27,10 +27,3 @@ Aplikasi ini dibangun menggunakan **Streamlit** agar pengguna dapat berinteraksi
 - UI yang sederhana dan interaktif dengan Streamlit
 
 ---
-
-## 🛠️ Instalasi & Menjalankan Aplikasi
-
-### 1. Clone repository ini
-```bash
-git clone https://github.com/username/Food_Delivery_Times.git
-cd Food_Delivery_Times
